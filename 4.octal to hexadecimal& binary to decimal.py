@@ -16,3 +16,8 @@ def octal_to_hexadecimal(octal_str):
    else:
        print("Invalid octal number. Please enter a number containing digits 0 to 7 only.")
 # Main program
+binary_input = input("Enter a binary number: ")
+binary_to_decimal(binary_input)
+octal_input = input("Enter an octal number: ")
+octal_to_hexadecimal(octal_input)
+String Similarity
