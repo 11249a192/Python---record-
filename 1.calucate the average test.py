@@ -4,7 +4,6 @@ test2 = float(input("Enter marks for Test 2: "))
 test3 = float(input("Enter marks for Test 3: "))
 # Store the marks in a list
 marks = [test1, test2, test3]
-2 / 27
 # Sort the list in descending order
 marks.sort(reverse=True)
 # Calculate the average of the best two marks
